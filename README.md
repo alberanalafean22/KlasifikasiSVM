@@ -23,6 +23,8 @@ Lahan diklasifikasi:
 * Lahan terbuka (area kosong)
 
 Hasil:
+* Peta
+  ![Peta Klasifikasi](https://github.com/user-attachments/assets/ff52facb-a62c-4f40-a2dd-e510f331c1d5)
 
 * https://code.earthengine.google.com/a65f5a7c1faebe01d39727f33b1ed9fc
 * https://colab.research.google.com/drive/1mDe710zQkPG0P1mATWiYgKQxe6TUnnVl?usp=sharing
