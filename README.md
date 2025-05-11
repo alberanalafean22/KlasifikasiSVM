@@ -1,4 +1,4 @@
-# Klasifikasi Lahan di Kawasan Ekonomi Khusus Perdagangan Bebas-Kota Batam menggunakan Support Vector Machine berbasis GEE
+# Klasifikasi Lahan di Kawasan Ekonomi Khusus Perdagangan Bebas (Kota Batam) menggunakan Support Vector Machine berbasis GEE
 
 Data: Sentinel-2 SR Harmonized (diakses melalui GEE) 
 
