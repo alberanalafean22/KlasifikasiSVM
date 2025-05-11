@@ -9,3 +9,5 @@ Bahasa pemrograman: Javascript & Python
 Tools: Google Colab, Code Editor GEE dan Qgis (untuk pembuatan layout peta)
 
 Tujuan: Untuk memetakan area lahan yang terpakai di Kawasan Ekonomi Khusus di Kota Batam dalam mengembangkan kebijakan di sektor Ekonomi dan perdagangan bebas dalam mendukung perekonomian nasional
+
+Lahan diklasifikasi: Area terbangun(pemukiman,perkantoran,pusat ekonomi dan lain-lain), Vegetasi (area lahan hijau), Lahan terbuka (area kosong)
