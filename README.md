@@ -12,7 +12,7 @@ ROI: Kota Batam (Tahun 2024)
 
 Bahasa pemrograman: Javascript & Python
 
-Tools: Google Colab, Code Editor GEE
+Tools: Google Colab, Code Editor GEE, Qgis (Peta)
 
 Tujuan: Untuk memetakan area lahan yang terpakai di Kawasan Ekonomi Khusus di Kota Batam dalam mengembangkan kebijakan di sektor Ekonomi dan perdagangan bebas dalam mendukung perekonomian nasional
 
