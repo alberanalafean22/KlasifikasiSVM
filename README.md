@@ -21,3 +21,8 @@ Lahan diklasifikasi:
 * Area terbangun (pemukiman,perkantoran,pusat ekonomi dan lain-lain)
 * Vegetasi (area lahan hijau)
 * Lahan terbuka (area kosong)
+
+Hasil:
+
+* https://code.earthengine.google.com/a65f5a7c1faebe01d39727f33b1ed9fc
+* https://colab.research.google.com/drive/1mDe710zQkPG0P1mATWiYgKQxe6TUnnVl?usp=sharing
